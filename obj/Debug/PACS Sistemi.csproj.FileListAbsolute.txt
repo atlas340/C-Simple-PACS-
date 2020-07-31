@@ -1,0 +1,21 @@
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\bin\Debug\PACS Sistemi.exe.config
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\bin\Debug\PACS Sistemi.exe
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\bin\Debug\PACS Sistemi.pdb
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\PACS Sistemi.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\PACS_Sistemi.AdminGiris.resources
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\PACS_Sistemi.DoktorGiris.resources
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\PACS_Sistemi.KullanıcGiris.resources
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\PACS_Sistemi.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\PACS Sistemi.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\PACS Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\PACS Sistemi.exe
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\PACS Sistemi.pdb
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\PACS_Sistemi.FrmAdminKayıt.resources
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\PACS_Sistemi.FrmDoktorKayıt.resources
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\PACS Sistemi.csproj.ResolveComReference.cache
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\PACS_Sistemi.FrmPdf.resources
+C:\Users\muham\OneDrive\Desktop\Udemy Dersleri\Uygulama Geliştirerek C# Öğrenin A'dan Z ye\Projeler\PACS Sistemi\obj\Debug\PACS_Sistemi.FrmImage.resources

@@ -1,0 +1,6 @@
+
+1-)Hasta Tahlil Görüntüleme(Sql ile bağlantıyı sağla)
+2-)Hasta MR,CT,Röntgen Verileri(Tarih ve TC ' ye Göre Resmi Göstert)
+3-)Tahlil ve MR'a buton ekliyerek ayarla(YesNo butonu Güncelleme için kullan)
+4-).exe dosyası açmaya çalış.
+4-)Hastaların doktorlara branşlara göre göster.
